@@ -12,8 +12,11 @@ Olá! Sou Edson, um programador front-end apaixonado por criar interfaces web di
 ⚛️ React
 
 Descrição: Um portfólio online para exibir meus projetos e habilidades.
+
 Tecnologias: HTML, CSS, JavaScript
+
 📝 Aplicativo de Tarefas
+
 📁 <a Portfólio Pessoal href "www.portfolio.com</a>> COLOCAR O LINK AQUI QUANDO TIVER OPORTFOFIO
 
 Descrição: Um aplicativo para gerenciar tarefas diárias.
