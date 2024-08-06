@@ -22,7 +22,9 @@ Tecnologias: HTML, CSS, JavaScript
 Descrição: Um aplicativo para gerenciar tarefas diárias.
 
 Tecnologias: React, CSS
+
 💼 Experiência:
+
 Desenvolvedor Front-End Freelancer (2023 - Presente)
 Trabalho em projetos diversos para clientes, criando websites e aplicações web customizadas.
 
