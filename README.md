@@ -20,12 +20,16 @@ Tecnologias: HTML, CSS, JavaScript
 📁 <a Portfólio Pessoal href "www.portfolio.com</a>> COLOCAR O LINK AQUI QUANDO TIVER OPORTFOFIO
 
 Descrição: Um aplicativo para gerenciar tarefas diárias.
+
 Tecnologias: React, CSS
 💼 Experiência:
 Desenvolvedor Front-End Freelancer (2023 - Presente)
 Trabalho em projetos diversos para clientes, criando websites e aplicações web customizadas.
+
 📬 Contato:
+
 🔗 LinkedIn
+
 📧 E-mail
 
 [![Edson Stats](https://github-readme-stats.vercel.app/api?username=EdsonDev08)](https://github.com/anuraghazra/github-readme-stats)
